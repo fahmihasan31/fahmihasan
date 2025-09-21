@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mochammad Fahmi Hasan</h1>
 <h3 align="center">I'm interested in Web Development</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_incoming&w=740&q=80">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?semt=ais_hybrid&w=740&q=80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmihasan31&label=Profile%20views&color=0e75b6&style=flat" alt="fahmihasan31" /> </p>
 
@@ -14,10 +13,6 @@
 - 📫 How to reach me **mochammadfahmihasan@gmail.com**
 
 - ⚡ Fun fact **code and coffee is the best combination i've ever had**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
